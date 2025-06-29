@@ -2,7 +2,7 @@
 <h3 align="center">💻 Junior Developer | 🌱 Lifelong Learner | 🚀 Building the Future</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github;Code%2C+Eat%2C+Sleep%2C+Repeat;You+Code%2C+You+Have+Powers" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=435&lines=Welcome+to+my+Github;Code%2C+Eat%2C+Sleep%2C+Repeat;You+Code%2C+You+Have+Powers" alt="Typing SVG" />
 </p>
 
 <p align="left">
