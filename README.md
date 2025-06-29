@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,mysql,postgres	,tailwind,bootstrap,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,mysql,postgres,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
 ---
