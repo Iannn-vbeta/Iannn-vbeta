@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm Fian</h1>
 <h3 align="center">💻 Developer | 🌱 Lifelong Learner | 🚀 Building the Future</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,laravel,mysql,mongodb,tailwind,bootstrap,docker,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,mysql,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
 ---
