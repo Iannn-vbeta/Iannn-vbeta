@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=435&lines=Welcome+to+my+Github;Code%2C+Eat%2C+Sleep%2C+Repeat;You+Code%2C+You+Have+Powers" alt="Typing SVG" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,mysql,postgres,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
